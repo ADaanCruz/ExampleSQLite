@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Example SQLite</string>
+    <string name="app_name_mayus">EXAMPLE SQLITE</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Cabeza del navigation</string>
+
+    <string name="action_edit">Editar</string>
+    <string name="action_delete">Eliminar</string>
+
+    <string name="about">Acerca de</string>
+    <string name="version">Versión</string>
+    <string name="developer">Desarrollador</string>
+
+    <string name="title">Título</string>
+    <string name="date">Fecha</string>
+    <string name="message">Mensaje</string>
+    <string name="action">Acción</string>
+</resources>
